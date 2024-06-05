@@ -6,4 +6,4 @@ This issue can be:
 - Too old or no pre-shipped bluetooth driver
 
 This repo contains a pipewire config.
-Download broadcom drivers [here]()
+Download broadcom drivers [here](https://github.com/winterheart/broadcom-bt-firmware)
