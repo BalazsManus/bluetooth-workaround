@@ -7,3 +7,5 @@ This issue can be:
 
 This repo contains a pipewire config.
 Download broadcom drivers [here](https://github.com/winterheart/broadcom-bt-firmware)
+
+To apply config just clone the repo and move the `pipewire` folder to ~/.config/
